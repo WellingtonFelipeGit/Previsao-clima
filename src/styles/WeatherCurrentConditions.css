@@ -1,0 +1,19 @@
+.weather-conditions {
+  padding: 30px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  width: 300px;
+}
+
+.weather-conditions li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.weather-conditions li label {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}

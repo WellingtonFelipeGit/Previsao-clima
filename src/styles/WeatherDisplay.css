@@ -1,0 +1,26 @@
+.weather-display {
+  width: 100vw;
+  padding: 45px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.weather-display p {
+  margin: 22px 0;
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 50px;
+}
+
+.weather-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 28px;
+}
+
+.weather-container span {
+  font-size: 70px;
+  font-weight: 600;
+}
